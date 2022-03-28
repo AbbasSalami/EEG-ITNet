@@ -11,7 +11,6 @@ in <em>IEEE Access</em>, doi: 10.1109/ACCESS.2022.3161489.
 <li>The code is based on Python 3.8 and TensorFlow 2.3.</li> 
 
 ## Usage
-You can use the available BCI Competition IV dataset 2a or the OpenBMI motor imagery dataset. 
-If you would like to use your own dataset, remember to reshape the data in the format of trial<span>&#215;</span>channel<span>&#215;</span>sample.
-The sections "Receive inputs" and "Opening dataset" need to be modified accordingly. 
+If you would like to use your own dataset, remember to reshape the data for each subject to the format of trial<span>&#215;</span>channel<span>&#215;</span>sample and modify the code accordingly. If you would like to access the BCI Competition IV dataset 2a and the OpenBMI motor imagery dataset used in the paper, please contact a.salami@essex.ac.uk. 
+
 
