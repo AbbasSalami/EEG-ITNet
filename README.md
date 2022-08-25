@@ -11,6 +11,14 @@ in <em>IEEE Access</em>, doi: 10.1109/ACCESS.2022.3161489.
 <li>The code is based on Python 3.8 and TensorFlow 2.3.</li> 
 
 ## Usage
-If you would like to use your own dataset, remember to reshape the data for each subject to the format of trial<span>&#215;</span>channel<span>&#215;</span>sample and modify the code accordingly. If you would like to access the BCI Competition IV dataset 2a and the OpenBMI motor imagery dataset used in the paper, please contact a.salami@essex.ac.uk. 
+Code is provided as it is. Datases can be downloaded from their corresponding repositories. If you would like to use your own dataset, remember to reshape the data for each subject to the format of trial<span>&#215;</span>channel<span>&#215;</span>sample and modify the code accordingly. 
+
+## License
+Abbas Salami - University of Essex (C) ALL RIGHTS RESERVED - ATTRIBUTION IS REQUIRED. NON-COMMERCIAL USE, NO DERIVATIVES, NO REDISTRIBUTION WITHOUT EXPLICIT CONSENT OF THEIR AUTHOR (a.salami@essex.ac.uk)
+
+## Disclaimer
+IN NO EVENT SHALL THE AUTHOR OF THIS CODE BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
+
+
 
 
