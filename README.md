@@ -7,8 +7,8 @@ If you find this work useful in your research, please cite:
 "EEG-ITNet: An Explainable Inception Temporal Convolutional Network for motor imagery classification," 
 in <em>IEEE Access</em>, doi: 10.1109/ACCESS.2022.3161489.
 ## Prerequisites
-<li>The code was run on <a href="https://www.nvidia.com/en-us/geforce/products/10series/titan-x-pascal/">NVIDIA TITAN X</a> (CUDA 10.1 and cuDNN 7.6.0).</li> 
-<li>The code is based on Python 3.8 and TensorFlow 2.3.</li> 
+<li>The code was initially run on <a href="https://www.nvidia.com/en-us/geforce/products/10series/titan-x-pascal/">NVIDIA TITAN X</a> (CUDA 10.1 and cuDNN 7.6.0).</li> 
+<li>The code is based on Python 3.12.3 and TensorFlow 2.16.1.</li> 
 
 ## Usage
 Code is provided as it is. Datases can be downloaded from their corresponding repositories. If you would like to use your own dataset, remember to reshape the data for each subject to the format of trial<span>&#215;</span>channel<span>&#215;</span>sample and modify the code accordingly. 
