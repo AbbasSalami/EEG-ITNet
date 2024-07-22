@@ -2,7 +2,6 @@ absl-py==2.1.0
 appnope==0.1.4
 asttokens==2.4.1
 astunparse==1.6.3
-certifi==2024.2.2
 charset-normalizer==3.3.2
 comm==0.2.2
 debugpy==1.8.1
